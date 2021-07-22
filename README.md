@@ -2,7 +2,7 @@
 
 > The First Fomo3D Token in Binance Smart Chain.
 
-**CFO**，aka Crazyfomo, first visual fomo game on Binance Smart China. Unbeatable Eco-mechanism ever!
+**CFO**，aka Crazyfomo, first visual fomo game on Binance Smart Chain. Unbeatable Eco-mechanism ever!
 CFO team did tons of research in fomo gaming, discussing with MIT scholar, come to a final mechanism after 4 months.
 
 ![Web](images/Web.png)
